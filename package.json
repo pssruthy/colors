@@ -1,0 +1,23 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pssruthy/colors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pssruthy/colors/issues"
+  },
+  "homepage": "https://github.com/pssruthy/colors#readme"
+}
